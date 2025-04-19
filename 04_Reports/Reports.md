@@ -43,7 +43,9 @@ This report presents an SQL-driven analysis of Netflix's catalog to uncover patt
 
 > **Insight:** The US dominates for both Movies and TV Shows, along with the UK. However, for Total Content India is in second place, whereas for TV Shows alone Japan is more popular
 
---- ### 4. 🕒 Average Movie Duration 
+--- 
+
+### 4. 🕒 Average Movie Duration 
 
 - **Average Duration:** ~99 minutes
   > **Insight:** Most Netflix movies fall in the 90–110 min range, while most TV Shows on Netflix are only 1 season long
@@ -64,6 +66,8 @@ This report presents an SQL-driven analysis of Netflix's catalog to uncover patt
 
 ### 6. 📅 Releases Per Year
 
+![image](https://github.com/user-attachments/assets/547d9d79-7fbf-416d-aae8-3833266de254)
+
 
 > **Insight:** Releases increased over time with a peak in **2019–2020**, with a dip around 2021. This peak is probably in line with covid where people were stuck at home and more likely to watch Netflix.
 
@@ -83,14 +87,14 @@ This report presents an SQL-driven analysis of Netflix's catalog to uncover patt
 ---
 ### 8. 🌐 International Outreach Over Time
 
-- Plotted countries over years based on content count.
+![image](https://github.com/user-attachments/assets/7129447a-151f-4f58-a0e3-192027f2ccc4)
+
 > **Insight:** Netflix expanded rapidly into non-U.S. markets starting ~2016.
 
 ---
 
 ### 9. 📈 Trending Genres Over the Years
 
-- Most popular genres per year: Drama, Comedy, Documentary, etc.
 > **Insight:** Dramas and Documentaries are consistently trending across years.
 
 ---
@@ -119,7 +123,8 @@ This report presents an SQL-driven analysis of Netflix's catalog to uncover patt
 
 ### 12. 🧱 Total Content Over Time
 
-Line chart showing total cumulative content added year-by-year.
+![image](https://github.com/user-attachments/assets/ceb24d62-48ff-4d26-beaa-ea11e1dee531)
+
 
 > **Insight:** Consistent growth until 2020, slight plateau afterward.
 
