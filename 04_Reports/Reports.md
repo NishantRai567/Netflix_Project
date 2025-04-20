@@ -130,6 +130,16 @@ This report presents an SQL-driven analysis of Netflix's catalog to uncover patt
 
 ---
 
+## 📈 Key Takeways
+
+- 70% of Netflix content is movies, indicating an opportunity to expand TV show offerings, especially multi-season series, to boost retention.
+
+- Strong international presence, especially in India and Japan, suggests potential for more localized productions.
+
+- Dramas and Documentaries dominate, highlighting areas for further investment and marketing focus.
+
+- With 66% of shows having only 1 season, Netflix risks losing users seeking long-form series.
+
 
 
 
