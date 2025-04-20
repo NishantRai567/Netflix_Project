@@ -29,7 +29,6 @@ VS Code / SQ Tools — for local SQL work
 
 Excel — for visualisation
 
-Tableau / Power BI (optional) — for dashboards
 
 ## 💼 Business Impact & Skills Demonstrated
 
@@ -43,7 +42,7 @@ Tableau / Power BI (optional) — for dashboards
 
 - Drama remains Netflix’s most consistently produced and globally distributed genre, making it a cornerstone for international audience appeal and long-term viewer engagement strategies.
 
-- Movies account for nearly 70% of the catalog, but TV show production has seen a steady rise, indicating a shift toward serialized content — a potential driver for improved binge-watching engagement and subscriber retention.
+- Movies make up nearly 70% of Netflix’s catalog, showing a strong focus on standalone content. However, among TV shows, over 65% have only one season, highlighting a possible gap in long-form, binge-worthy series that drive viewer retention.
 
 - The U.S., India, and the U.K. are leading content producers, highlighting Netflix’s strategic focus on both Western and high-growth Asian markets. India's strong presence reflects increasing localization efforts and demand in emerging regions.
 
