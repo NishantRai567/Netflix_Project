@@ -31,6 +31,12 @@ Excel — for visualisation
 
 Tableau / Power BI (optional) — for dashboards
 
+## 💼 Business Impact & Skills Demonstrated
+
+- **SQL Analysis:** Wrote advanced SQL queries (GROUP BY, CTEs, Window functions etc) to extract trends from 8K+ rows.
+- **Data Storytelling:** Translated raw data into strategic business insights around content, markets, and audience.
+- **Business Value:** Highlighted genre saturation, global expansion patterns, and under-served niches to inform content strategy.
+
 ## 📈 Key Findings
 
 Drama is the most consistent genre across years and countries.
