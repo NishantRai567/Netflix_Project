@@ -35,7 +35,7 @@ Tableau / Power BI (optional) — for dashboards
 
 - 📈 **Strategic Insights:** Identified content type trends (e.g., 69% of content are movies), helping suggest platform investment focus.
 - 🌍 **Market Expansion Analysis:** Analysed country-wise and language trends to infer Netflix's global strategy post-2016.
-- 🎯 **Content Planning Support:** Highlighted gaps in long-form TV series and regional genre distribution (e.g., underrepresented Sci-Fi in India).
+- 🎯 **Content Planning Support:** Highlighted gaps in long-form TV series and regional genre distribution.
 - 🧠 **Analytical Skills:** Applied SQL techniques including CTEs, window functions, and case logic to answer real business questions.
 - 📊 **Visualization & Reporting:** Converted raw SQL results into Excel dashboards; T
 
